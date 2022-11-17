@@ -1,0 +1,7 @@
+spring:
+#  mvc:
+#    #静态资源访问前缀 Tips:当配置了资源访问前缀后会导致index.html不能被正确访问
+#    static-path-pattern: /res/**
+  resources:
+    #静态资源路径
+    static-locations: classpath:/haha/

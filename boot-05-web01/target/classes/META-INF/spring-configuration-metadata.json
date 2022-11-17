@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.atguigu.boot.config.WebConfig",
+      "sourceType": "com.atguigu.boot.config.WebConfig"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
